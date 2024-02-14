@@ -1,0 +1,5 @@
+com/karad/k8s/model/Student.class
+com/karad/k8s/service/StudentService.class
+com/karad/k8s/controller/StudentController.class
+com/karad/k8s/repository/StudentRepository.class
+com/karad/k8s/K8sApplication.class
